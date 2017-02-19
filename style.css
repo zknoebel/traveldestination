@@ -1,0 +1,40 @@
+body{
+  background-image: url(https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fwdpromedia.disney.go.com%2Fresize%2FmwImage%2F1%2F1200%2F600%2F90%2Fwdpromedia.disney.go.com%2Fmedia%2Fabd%2Frefresh%2Feurope%2Fgermany-vacations%2Fadventures-by-disney-europe-germany-hero-01-neuschwanstein-castle.jpg&f=1);
+  background-size: cover;
+}
+
+.black-box{
+  height: 325px;
+  width: 325px;
+  background-color: black;
+  margin-top: 50px;
+  text-align: center;
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.flag-image{
+  margin-top: 40px;
+  width: 100px;
+  border-radius: 50%;
+}
+
+.destLabel{
+  color: white;
+  padding-top: 15px;
+  font-family: Lato;
+}
+
+.search-box{
+
+  padding-left: 0;
+  padding-right: 0;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 225px;
+}
